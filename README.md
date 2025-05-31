@@ -1,4 +1,5 @@
 # GoFin IT Consulting – Brand Assets
+![GoFin Full Logo](https://github.com/SpearTinMan/GoFinITConsulting/blob/master/logos/GoFin_Full_Logo_For_Signature.png)
 
 This repository contains public brand and logo assets for GoFin IT Consulting. These files are used for email signatures, internal documentation, and external marketing where professional branding is required.
 
